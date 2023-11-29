@@ -10,9 +10,13 @@ int main(){
         cout << pila.top() << endl;
         pila.pop();
     }
-    pila.push(6.6)
-    pila.push(7.7)
-    pila.push(8.8)
-    pila.push(9.9)
-    pila.push(10.10)
+    pila.push(6.6);
+    pila.push(7.7);
+    pila.push(8.8);
+    pila.push(9.9);
+    pila.push(10.10);
+
+    cout<<"elemento del principio(arriba de la lista)"<<pila.top()<<endl;
+    pila.pop();
+    cout<<"nuevo elemento despues del pop"<<pila.top()<<endl;
 }
