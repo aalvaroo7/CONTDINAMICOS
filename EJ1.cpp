@@ -2,11 +2,13 @@
 #include <string>
 #include <vector>
 using namespace std;
+// Función para mostrar los elementos de un vector de strings
 void mostrarElementos(const vector<string>& elementos) {
     for (const auto& elemento : elementos) {
         cout << elemento << endl;
     }
 }
+// Función para mostrar los elementos de un vector de enteros
 void mostrarElementos(const vector<int>& elementos) {
     for (const auto& elemento : elementos) {
         cout << elemento << endl;
@@ -14,7 +16,7 @@ void mostrarElementos(const vector<int>& elementos) {
 }
 int main() {
     cout << "Nombres" << endl;
-
+    // Vector de nombres
     vector<string> nombres = {"Juan", "Pedro", "Maria", "Jose", "Luis"};
     mostrarElementos(nombres);
     cout << "Numeros" << endl;
