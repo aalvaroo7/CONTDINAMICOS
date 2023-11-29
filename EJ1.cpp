@@ -7,3 +7,8 @@ void mostrarElementos(const vector<string>& elementos) {
         cout << elemento << endl;
     }
 }
+void mostrarElementos(const vector<int>& elementos) {
+    for (const auto& elemento : elementos) {
+        cout << elemento << endl;
+    }
+}
