@@ -19,4 +19,5 @@ int main(){
     cout<<"elemento del principio(arriba de la lista)"<<pila.top()<<endl;
     pila.pop();
     cout<<"nuevo elemento despues del pop"<<pila.top()<<endl;
+    return 0;
 }
