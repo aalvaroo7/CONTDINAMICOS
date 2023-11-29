@@ -2,7 +2,6 @@
 #include <vector>
 #include <algorithm>
 #include <memory>
-#include <functional>
 #include <cmath>
 using namespace std;
 int main(){
