@@ -20,7 +20,7 @@ int main() {
     vector<string> nombres = {"Juan", "Pedro", "Maria", "Jose", "Luis"};
     mostrarElementos(nombres);
     cout << "Numeros" << endl;
-
+    // Llamada a la función para mostrar nombres
     vector<int> numeros = {1, 2, 3, 4, 5};
     mostrarElementos(numeros);
     return 0;
