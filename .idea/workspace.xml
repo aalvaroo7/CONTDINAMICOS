@@ -9,7 +9,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4439f82-f230-4e95-9f16-8f6f27f8f8e4" name="Changes" comment="comits ejercicios" />
+    <list default="true" id="f4439f82-f230-4e95-9f16-8f6f27f8f8e4" name="Changes" comment="comits ejercicios">
+      <change afterPath="$PROJECT_DIR$/EJ4.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +57,7 @@
       <recent name="C:\Users\ALVARO MARTIN\CLionProjects\CONTdinamicos" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.EJ3.cpp">
+  <component name="RunManager" selected="C/C++ File.EJ4.cpp">
     <configuration name="EJ1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CONTDINAMICOS" TARGET_NAME="EJ1.cpp" CONFIG_NAME="EJ1.cpp">
       <option name="sourceFile" value="EJ1.cpp" />
       <method v="2">
@@ -74,10 +76,17 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EJ4.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CONTDINAMICOS" TARGET_NAME="EJ4.cpp" CONFIG_NAME="EJ4.cpp">
+      <option name="sourceFile" value="EJ4.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="C/C++ File.EJ1.cpp" />
       <item itemvalue="C/C++ File.EJ2.cpp" />
       <item itemvalue="C/C++ File.EJ3.cpp" />
+      <item itemvalue="C/C++ File.EJ4.cpp" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -95,7 +104,7 @@
       <workItem from="1701248891619" duration="12000" />
       <workItem from="1701276133547" duration="944000" />
       <workItem from="1701289439870" duration="2912000" />
-      <workItem from="1701296755024" duration="307000" />
+      <workItem from="1701296755024" duration="374000" />
     </task>
     <task id="LOCAL-00001" summary="json">
       <option name="closed" value="true" />
@@ -369,7 +378,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701297006089</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="comits ejercicios">
+      <option name="closed" value="true" />
+      <created>1701297103531</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1701297103531</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
