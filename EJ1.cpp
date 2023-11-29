@@ -16,8 +16,8 @@ mivector.push_back(2); //agrego otro elemento al vector
 mivector.push_back(3); //agrego otro elemento al vector
 mivector.push_back(4); //agrego otro elemento al vector
 cout<<"El vector tiene componentes:";
-for(vector<int>::iterator i=mivector.begin(); i!=mivector.end(),i++) {
-    cout << *i << " ";
+for(vector<int>::iterator i=mivector.begin(); i != mivector.end(),i++) { //recorro el vector
+    cout << *i << " ";//muestra los elementos
 }
 cout<<endl;
 return 0;
