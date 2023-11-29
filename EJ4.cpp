@@ -21,5 +21,36 @@ int main(){
 for(double l:suma){
     cout<<l<<endl;
     cout <<"resta -10"<<endl;
-    for(double l:resta)
+    for(double l:resta){
+    cout<<l<<endl;
+        cout<<"multiplicacion *10"<<endl;
+        for(double l:multiplicacion){
+            cout<<l<<endl;
+            cout<<"division /10"<<endl;
+            for(double l:division){
+                cout<<l<<endl;
+                cout<<"raiz cuadrada"<<endl;
+                for(double l:raiz){
+                    cout<<l<<endl;
+                    cout<<"logaritmo"<<endl;
+                    for(double l:logaritmo){
+                        cout<<l<<endl;
+                        cout<<"seno"<<endl;
+                        for(double l:seno){
+                            cout<<l<<endl;
+                            cout<<"coseno"<<endl;
+                            for(double l:coseno){
+                                cout<<l<<endl;
+                                cout<<"tangente"<<endl;
+                                for(double l:tangente){
+                                    cout<<l<<endl;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
 }
