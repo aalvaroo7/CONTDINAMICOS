@@ -12,3 +12,12 @@ void mostrarElementos(const vector<int>& elementos) {
         cout << elemento << endl;
     }
 }
+int main() {
+    cout << "Nombres" << endl;
+
+    vector<string> nombres = {"Juan", "Pedro", "Maria", "Jose", "Luis"};
+    mostrarElementos(nombres);
+    cout << "Numeros" << endl;
+
+    vector<int> numeros = {1, 2, 3, 4, 5};
+    mostrarElementos(numeros);
