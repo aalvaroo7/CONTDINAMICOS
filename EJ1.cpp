@@ -23,6 +23,7 @@ int main() {
     cout << "Numeros" << endl;
     // Vector de números
     vector<int> numeros = {1, 2, 3, 4, 5};
+    // Llamada a la función para mostrar números
     mostrarElementos(numeros);
     return 0;
 }
