@@ -32,36 +32,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/ALVARO MARTIN/CLionProjects/CONTDINAMICOS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ALVARO MARTIN/CLionProjects/CONTDINAMICOS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ALVARO MARTIN\CLionProjects\CONTdinamicos" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="EJ1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CONTdinamicos" TARGET_NAME="EJ1.cpp" CONFIG_NAME="EJ1.cpp">
+  <component name="RunManager" selected="C/C++ File.EJ3.cpp">
+    <configuration name="EJ1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CONTDINAMICOS" TARGET_NAME="EJ1.cpp" CONFIG_NAME="EJ1.cpp">
       <option name="sourceFile" value="EJ1.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EJ2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CONTDINAMICOS" TARGET_NAME="EJ2.cpp" CONFIG_NAME="EJ2.cpp">
+      <option name="sourceFile" value="EJ2.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EJ3.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CONTDINAMICOS" TARGET_NAME="EJ3.cpp" CONFIG_NAME="EJ3.cpp">
+      <option name="sourceFile" value="EJ3.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ File.EJ1.cpp" />
+      <item itemvalue="C/C++ File.EJ2.cpp" />
+      <item itemvalue="C/C++ File.EJ3.cpp" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -77,6 +94,7 @@
       <workItem from="1701192338001" duration="63000" />
       <workItem from="1701248891619" duration="12000" />
       <workItem from="1701276133547" duration="944000" />
+      <workItem from="1701289439870" duration="2912000" />
     </task>
     <task id="LOCAL-00001" summary="json">
       <option name="closed" value="true" />
@@ -126,7 +144,215 @@
       <option name="project" value="LOCAL" />
       <updated>1701170706658</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ej1">
+      <option name="closed" value="true" />
+      <created>1701289817561</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1701289817562</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ej1">
+      <option name="closed" value="true" />
+      <created>1701289844970</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1701289844970</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ej1">
+      <option name="closed" value="true" />
+      <created>1701289862380</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1701289862380</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ej1">
+      <option name="closed" value="true" />
+      <created>1701289896031</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1701289896031</updated>
+    </task>
+    <task id="LOCAL-00011" summary="ej1">
+      <option name="closed" value="true" />
+      <created>1701289919540</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1701289919540</updated>
+    </task>
+    <task id="LOCAL-00012" summary="ej1">
+      <option name="closed" value="true" />
+      <created>1701290020039</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1701290020039</updated>
+    </task>
+    <task id="LOCAL-00013" summary="ej1">
+      <option name="closed" value="true" />
+      <created>1701290067692</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1701290067692</updated>
+    </task>
+    <task id="LOCAL-00014" summary="ej1">
+      <option name="closed" value="true" />
+      <created>1701290102176</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1701290102176</updated>
+    </task>
+    <task id="LOCAL-00015" summary="ej1">
+      <option name="closed" value="true" />
+      <created>1701290131541</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1701290131541</updated>
+    </task>
+    <task id="LOCAL-00016" summary="ej1">
+      <option name="closed" value="true" />
+      <created>1701290463602</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1701290463602</updated>
+    </task>
+    <task id="LOCAL-00017" summary="ej1">
+      <option name="closed" value="true" />
+      <created>1701290520953</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1701290520953</updated>
+    </task>
+    <task id="LOCAL-00018" summary="ej1">
+      <option name="closed" value="true" />
+      <created>1701290583930</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1701290583930</updated>
+    </task>
+    <task id="LOCAL-00019" summary="ej1">
+      <option name="closed" value="true" />
+      <created>1701290623040</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1701290623040</updated>
+    </task>
+    <task id="LOCAL-00020" summary="ej1">
+      <option name="closed" value="true" />
+      <created>1701290645062</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1701290645062</updated>
+    </task>
+    <task id="LOCAL-00021" summary="ej1">
+      <option name="closed" value="true" />
+      <created>1701290678270</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1701290678270</updated>
+    </task>
+    <task id="LOCAL-00022" summary="ej1">
+      <option name="closed" value="true" />
+      <created>1701290763874</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1701290763874</updated>
+    </task>
+    <task id="LOCAL-00023" summary="ej1">
+      <option name="closed" value="true" />
+      <created>1701290906029</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1701290906029</updated>
+    </task>
+    <task id="LOCAL-00024" summary="ej1">
+      <option name="closed" value="true" />
+      <created>1701290960485</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1701290960485</updated>
+    </task>
+    <task id="LOCAL-00025" summary="ej1">
+      <option name="closed" value="true" />
+      <created>1701290992573</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1701290992573</updated>
+    </task>
+    <task id="LOCAL-00026" summary="ej1">
+      <option name="closed" value="true" />
+      <created>1701291105952</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1701291105952</updated>
+    </task>
+    <task id="LOCAL-00027" summary="ej1">
+      <option name="closed" value="true" />
+      <created>1701291391681</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1701291391681</updated>
+    </task>
+    <task id="LOCAL-00028" summary="ej1">
+      <option name="closed" value="true" />
+      <created>1701291532203</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1701291532203</updated>
+    </task>
+    <task id="LOCAL-00029" summary="ej1">
+      <option name="closed" value="true" />
+      <created>1701291558922</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1701291558922</updated>
+    </task>
+    <task id="LOCAL-00030" summary="ej1">
+      <option name="closed" value="true" />
+      <created>1701291635642</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1701291635642</updated>
+    </task>
+    <task id="LOCAL-00031" summary="ej1">
+      <option name="closed" value="true" />
+      <created>1701291753503</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1701291753503</updated>
+    </task>
+    <task id="LOCAL-00032" summary="ej1">
+      <option name="closed" value="true" />
+      <created>1701291773347</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1701291773347</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,7 +361,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="implementacion clase json" />
     <MESSAGE value="json" />
-    <option name="LAST_COMMIT_MESSAGE" value="json" />
+    <MESSAGE value="ej1" />
+    <option name="LAST_COMMIT_MESSAGE" value="ej1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
