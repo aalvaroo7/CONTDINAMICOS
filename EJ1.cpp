@@ -18,9 +18,10 @@ int main() {
     cout << "Nombres" << endl;
     // Vector de nombres
     vector<string> nombres = {"Juan", "Pedro", "Maria", "Jose", "Luis"};
+    // Llamada a la función para mostrar nombres
     mostrarElementos(nombres);
     cout << "Numeros" << endl;
-    // Llamada a la función para mostrar nombres
+    // Vector de números
     vector<int> numeros = {1, 2, 3, 4, 5};
     mostrarElementos(numeros);
     return 0;
