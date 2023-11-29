@@ -12,3 +12,5 @@ personas.push_back("Luis");
 personas.push_back("Ana");
 personas.push_back("Rosa");
 personas.push_back("Jose");
+
+vector<string>::iterator it;
