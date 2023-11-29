@@ -14,3 +14,6 @@ personas.push_back("Rosa");
 personas.push_back("Jose");
 
 vector<string>::iterator it;
+for(it = personas.begin(); it != personas.end(); it++){
+    cout << *it << endl;
+}
