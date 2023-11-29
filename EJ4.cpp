@@ -17,6 +17,9 @@ int main(){
     valarray<double> coseno= cos(lista);
     valarray<double> tangente= tan(lista);
 
-
-
+    cout<<"suma +10" <<endl;
+for(double l:suma){
+    cout<<l<<endl;
+    cout <<"resta -10"<<endl;
+    for(double l:resta)
 }
