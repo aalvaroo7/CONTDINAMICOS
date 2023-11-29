@@ -21,3 +21,5 @@ int main() {
 
     vector<int> numeros = {1, 2, 3, 4, 5};
     mostrarElementos(numeros);
+    return 0;
+}
